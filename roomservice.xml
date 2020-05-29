@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    
+  <remote  name="github"
+           fetch=".."
+           review="review.lineageos.org" />
+
+<!-- Device-specific Repos -->
+  <project name="GG2501YT/android_kernel_htc_msm8974" path="kernel/htc/msm8974" remote="github" revision="cm-14.1" />
+  <project name="GG2501YT/android_device_htc_a5-common" path="device/htc/a5-common" remote="github" revision="cm-14.1" />
+  <project name="GG2501YT/android_device_htc_a5ul" path="device/htc/a5ul" remote="github" revision="cm-14.1" />
+  <project name="GG2501YT/android_device_htc_a5dwg" path="device/htc/a5dwg" remote="github" revision="cm-14.1" />
+  <project name="GG2501YT/android_vendor_htc" path="vendor/htc" remote="github" revision="cm-14.1" />
+ <!-- Other -->
+  <project name="GG2501YT/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
+  <project name="GG2501YT/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+
+</manifest>
