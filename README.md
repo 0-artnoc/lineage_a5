@@ -1,5 +1,5 @@
-# Roomservice for HTC Desire 816 LineageOS
-This File adds the device-specific Repositorys to build LineageOS
+# Roomservice for HTC Desire 816 (LineageOS 14.1)
+This File adds the device-specific Repositorys to build LineageOS 14.1
 
 ## How to use?
 1. Open a Terminal and open your build directory, example:
