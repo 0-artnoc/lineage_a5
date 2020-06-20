@@ -12,7 +12,7 @@
   <project name="GG2501YT/android_device_htc_a5dwg" path="device/htc/a5dwg" remote="github" revision="cm-14.1" />
   <project name="GG2501YT/android_vendor_htc" path="vendor/htc" remote="github" revision="cm-14.1" />
  <!-- Other -->
-  <project name="GG2501YT/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
-  <project name="GG2501YT/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
 
 </manifest>
